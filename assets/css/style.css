@@ -14,6 +14,9 @@ h5,
 h6 {
   color: #000000;
 }
+p {
+text-align: left;
+}
 
 a {
   color: #000000;
@@ -125,7 +128,7 @@ a:hover {
 
 .color-text-a {
   text-decoration: none;
-  color: #555555;
+  color: #363535;
 }
 
 .no-margin {
@@ -457,6 +460,7 @@ a:hover {
 
 .nav-arrow-b .owl-arrow .owl-nav .owl-next {
   margin-left: 0px;
+  color: white;
 }
 
 /*------/ Socials /------*/
